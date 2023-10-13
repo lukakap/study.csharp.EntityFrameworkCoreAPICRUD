@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XcD1nJ6klDUDZY0QOBs40t+hNsCr+gJQoKlImdnpI3E=",
+  "Source": "EntityFrameworkCore-API-CRUD",
+  "BasePath": "_content/EntityFrameworkCore-API-CRUD",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
